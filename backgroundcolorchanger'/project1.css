@@ -1,0 +1,65 @@
+body
+{
+    justify-content: center;
+    text-align: center;
+ background-color: rgb(159, 202, 202);
+ color:rgb(6, 57, 245);
+}
+.header
+{
+    text-decoration: underline;
+   font-size:x-large;
+   color:black
+}
+.page
+{
+    margin-top: 50px;
+    width: 850px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    gap: 3px;    
+}
+.button
+{
+    border-radius: 25%;
+    border: 3px solid black;
+  width: 150px;
+  height: 140px;;
+  justify-content: space-around;
+  text-align: center;
+  
+}
+#grey
+{
+    background-color: grey;
+    color: bisque;
+}
+#red
+{
+    background-color: red;
+    color:black
+}
+#blue
+{
+    background-color: blue;
+    color: aliceblue;
+}
+#black
+{
+    background-color: black;
+    color:white
+}
+#yellow
+{
+    background-color: yellow;
+    color: black;
+}
+#down-head
+{
+    text-decoration: underline;
+    color:black;
+}
+h1{
+    text-decoration: underline;
+}
